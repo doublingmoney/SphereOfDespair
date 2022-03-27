@@ -1,5 +1,5 @@
 # Sphere Of Despair
-### Sphere of Despair is a fast-paced 3rd person arena shooter where player tries to fight its way through different levels and hordes of enemies and ultimately defeat the Evil AI.
+- Sphere of Despair is a fast-paced 3rd person arena shooter where player tries to fight its way through different levels and hordes of enemies and ultimately defeat the Evil AI.
 * Third-person Shooter, sci-fi, roll-a-ball
 
 ## Contributors
